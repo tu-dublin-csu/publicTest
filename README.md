@@ -1,6 +1,4 @@
 # publicTest
 Public repository for set up and configuration testing purposes
 
-testing branch rules on staging
-
-take 2
+feature branch change - should push to remote repo and the merge in via PR
